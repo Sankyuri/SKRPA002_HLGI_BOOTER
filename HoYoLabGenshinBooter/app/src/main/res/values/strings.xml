@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HoYoLab and Genshin Booter</string>
+    <string name="hoyolab_error">HoYoLAB is not installed!</string>
+    <string name="genshin_error">Genshin Impact is not installed!</string>
+</resources>

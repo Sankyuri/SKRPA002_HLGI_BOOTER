@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HoYoLabと原神を同時に起動する器</string>
+    <string name="hoyolab_error">HoYoLab がインストールされていません！</string>
+    <string name="genshin_error">原神がインストールされていません！</string>
+</resources>
