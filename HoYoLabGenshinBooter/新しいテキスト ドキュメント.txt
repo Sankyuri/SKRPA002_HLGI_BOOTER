@@ -1,0 +1,14 @@
+HoYoLAB and Genshin Booter
+
+When you boot for the first time that Day then HoYoLAB and Genshin
+
+Boot HoYoLAB to recieve bonuses, Boot Genshin Impact to play game... this takes time and effort. With this app, You can boot these apps with less time and effort.
+The days are separated by the reset time. If it is started for the first time on that day, both will be started, and if it has been started more than once on that day, only Genshin will be started.
+
+HoYoLABと原神を同時に起動する器
+
+リセット時間を跨いていたら両方同時に起動するよ
+
+ログボ獲得でHoYoLABを、ゲームプレイで原神をそれぞれ起動するのは面倒なので、同時に起動できるようにしました。
+リセット時間で区切った日で、その日に初めて起動したら 両方を、その日に1回以上起動していたら原神のみを起動します。
+
